@@ -60,4 +60,3 @@ pip install torch torchvision opencv-python-headless networkx onnx
    ```
 
 ## Contact
-For any questions or clarifications, please contact Jayant Joshi at Realfy Oasis PVT. LTD.
